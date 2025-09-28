@@ -1,0 +1,113 @@
+[
+  {
+    "name": "Starter",
+    "price": "KES 50,000",
+    "period": "one-time",
+    "description": "Perfect for small businesses and startups",
+    "features": [
+      "5-page responsive website",
+      "Mobile optimization",
+      "Basic SEO setup",
+      "Contact form integration",
+      "Social media links",
+      "1 month support",
+      "Google Analytics setup",
+      "SSL certificate"
+    ],
+    "featured": false,
+    "cta": "Get Started"
+  },
+  {
+    "name": "Professional",
+    "price": "KES 120,000",
+    "period": "one-time",
+    "description": "Ideal for growing businesses",
+    "features": [
+      "Up to 15-page website",
+      "Custom design & branding",
+      "Advanced SEO optimization",
+      "E-commerce functionality",
+      "Payment gateway integration",
+      "3 months support",
+      "Google Analytics & Search Console",
+      "Content management system",
+      "Blog setup"
+    ],
+    "featured": true,
+    "cta": "Most Popular"
+  },
+  {
+    "name": "Enterprise",
+    "price": "KES 300,000",
+    "period": "one-time",
+    "description": "For established businesses with complex needs",
+    "features": [
+      "Unlimited pages",
+      "Custom web application",
+      "Advanced integrations",
+      "Multi-language support",
+      "Advanced security features",
+      "6 months support",
+      "Performance optimization",
+      "Custom dashboard",
+      "API development",
+      "Dedicated project manager"
+    ],
+    "featured": false,
+    "cta": "Contact Us"
+  },
+  {
+    "name": "Maintenance",
+    "price": "KES 15,000",
+    "period": "per month",
+    "description": "Keep your website running smoothly",
+    "features": [
+      "Regular updates",
+      "Security monitoring",
+      "Daily backups",
+      "Performance optimization",
+      "Content updates (up to 5 hours)",
+      "Bug fixes",
+      "Uptime monitoring",
+      "Monthly reports"
+    ],
+    "featured": false,
+    "cta": "Subscribe"
+  },
+  {
+    "name": "SEO Package",
+    "price": "KES 25,000",
+    "period": "per month",
+    "description": "Boost your search engine rankings",
+    "features": [
+      "Keyword research",
+      "On-page optimization",
+      "Technical SEO audit",
+      "Content optimization",
+      "Local SEO setup",
+      "Link building",
+      "Monthly reports",
+      "Google My Business optimization"
+    ],
+    "featured": false,
+    "cta": "Start SEO"
+  },
+  {
+    "name": "Digital Marketing",
+    "price": "KES 35,000",
+    "period": "per month",
+    "description": "Complete digital marketing solution",
+    "features": [
+      "Social media management",
+      "Google Ads setup & management",
+      "Facebook & Instagram advertising",
+      "Email marketing campaigns",
+      "Content creation",
+      "Analytics & reporting",
+      "Strategy consultation",
+      "Monthly performance review"
+    ],
+    "featured": false,
+    "cta": "Start Marketing"
+  }
+]

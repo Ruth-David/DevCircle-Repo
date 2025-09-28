@@ -1,0 +1,62 @@
+[
+  {
+    "question": "How much does a website cost?",
+    "answer": "Website costs vary depending on complexity and features. Our starter packages begin at KES 50,000 for a basic business website. Professional websites with e-commerce functionality start at KES 120,000. We also offer custom quotes for enterprise-level projects. Contact us for a free consultation and personalized quote."
+  },
+  {
+    "question": "How long does it take to build a website?",
+    "answer": "Most websites take 2-6 weeks to complete, depending on the scope and complexity. A basic business website typically takes 2-3 weeks, while e-commerce sites or complex web applications may take 4-8 weeks. We'll provide a detailed timeline during our initial consultation."
+  },
+  {
+    "question": "Do you provide website maintenance?",
+    "answer": "Yes! We offer comprehensive website maintenance packages starting at KES 15,000 per month. This includes security updates, backups, performance monitoring, content updates, and technical support. We believe in long-term partnerships with our clients."
+  },
+  {
+    "question": "Will my website be mobile-friendly?",
+    "answer": "Absolutely! All our websites are built with a mobile-first approach and are fully responsive across all devices. We test extensively on phones, tablets, and desktops to ensure optimal user experience regardless of screen size."
+  },
+  {
+    "question": "Do you help with SEO?",
+    "answer": "Yes, we include basic SEO optimization in all our web design packages. We also offer advanced SEO services starting at KES 25,000 per month, including keyword research, content optimization, link building, and monthly performance reports."
+  },
+  {
+    "question": "Can you redesign my existing website?",
+    "answer": "Certainly! We specialize in website redesigns and can help modernize your existing site while preserving your brand identity and improving user experience. We'll analyze your current site and propose improvements based on current best practices."
+  },
+  {
+    "question": "What about hosting and domain names?",
+    "answer": "We can help you choose and set up reliable hosting and register your domain name. While hosting costs are separate from design fees, we work with trusted providers to ensure fast, secure hosting solutions that fit your budget."
+  },
+  {
+    "question": "Do you work with international clients?",
+    "answer": "While we're based in Nairobi CBD, we work with clients globally. We're experienced in remote collaboration and use modern project management tools to ensure smooth communication regardless of time zones."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept various payment methods including bank transfers, M-Pesa, and international wire transfers. We typically work with a 50% deposit to start the project and 50% upon completion, though payment plans can be arranged for larger projects."
+  },
+  {
+    "question": "Do you provide training on how to update my website?",
+    "answer": "Yes! We provide comprehensive training on how to manage your website content, add new pages, update information, and use any content management system we implement. We also provide documentation and video tutorials."
+  },
+  {
+    "question": "What if I need changes after my website is launched?",
+    "answer": "We offer support and minor revisions within the first month after launch. After that, changes can be made as part of our maintenance package or on an hourly basis. We're always here to help your website evolve with your business."
+  },
+  {
+    "question": "Can you help with digital marketing beyond web design?",
+    "answer": "Absolutely! We offer comprehensive digital marketing services including social media management, Google Ads, SEO, email marketing, and content creation. Our marketing packages start at KES 35,000 per month and can be customized to your needs."
+  },
+  {
+    "question": "Do you create mobile apps?",
+    "answer": "Yes, we develop mobile applications for both iOS and Android platforms. We specialize in cross-platform solutions using React Native and Flutter, which allows us to create apps that work seamlessly on both platforms while reducing development costs and time."
+  },
+  {
+    "question": "What makes DevCircle different from other web design companies?",
+    "answer": "We combine creative design with technical expertise and local market knowledge. As a Nairobi-based team, we understand the Kenyan market while delivering international-quality work. We focus on long-term partnerships, provide excellent support, and ensure your website drives real business results."
+  },
+  {
+    "question": "How do we get started?",
+    "answer": "Getting started is easy! Contact us via WhatsApp at +254 743 750 237, email us, or fill out our contact form. We'll schedule a free consultation to discuss your project, goals, and timeline. From there, we'll provide a detailed proposal and project plan."
+  }
+]

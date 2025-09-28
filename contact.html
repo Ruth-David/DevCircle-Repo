@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - DevCircle | Get in Touch for Web Design Services</title>
+    <meta name="description" content="Contact DevCircle for professional web design, development, and digital marketing services in Nairobi CBD. Call, WhatsApp, or visit our office today.">
+    <meta name="keywords" content="contact DevCircle, web design Nairobi, get quote, WhatsApp contact, Nairobi CBD office">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="Contact Us - DevCircle">
+    <meta property="og:description" content="Get in touch with DevCircle for professional web design services in Nairobi CBD">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://devcircle.co.ke/contact.html">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/layout.css">
+    <link rel="stylesheet" href="css/components.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <!-- Logo Image Added Here -->
+                    <a href="index.html">
+                        <img src="https://i.postimg.cc/NFnHBX82/Dev-Circle-Logo-2025-09-11-at-14-37-35-ada752b1.jpg" alt="DevCircle Logo" style="width: 150px; height: auto;" />
+                    </a>
+                </div>
+                <nav class="nav" id="nav">
+                    <ul class="nav-list">
+                        <li><a href="index.html" class="nav-link">Home</a></li>
+                        <li><a href="services.html" class="nav-link">Services</a></li>
+                        <li><a href="about.html" class="nav-link">About</a></li>
+                        <li><a href="portfolio.html" class="nav-link">Portfolio</a></li>
+                        <li><a href="pricing.html" class="nav-link">Pricing</a></li>
+                        <li><a href="blog.html" class="nav-link">Blog</a></li>
+                        <li><a href="faq.html" class="nav-link">FAQ</a></li>
+                        <li><a href="contact.html" class="nav-link active">Contact</a></li>
+                    </ul>
+                </nav>
+                <div class="header-actions">
+                    <a href="https://wa.me/254743750237" class="btn btn-primary btn-small">Chat on WhatsApp</a>
+                    <button class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Toggle mobile menu">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Hero Section -->
+        <section class="section">
+            <div class="container">
+                <div class="section-header">
+                    <h1>Get in Touch</h1>
+                    <p>Ready to transform your digital presence? Let's discuss your project and create something amazing together. We're here to help bring your vision to life.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Form & Info -->
+        <section class="section section-light">
+            <div class="container">
+                <div class="grid grid-2" style="gap: 4rem; align-items: start;">
+                    <!-- Contact Form -->
+                    <div>
+                        <div class="card">
+                            <div class="card-header">
+                                <h2>Send us a Message</h2>
+                                <p>Fill out the form below and we'll get back to you within 24 hours.</p>
+                            </div>
+                            <div class="card-body">
+                                <form id="contactForm">
+                                    <div class="form-group">
+                                        <label for="name" class="form-label">Full Name *</label>
+                                        <input type="text" id="name" name="name" class="form-input" required>
+                                        <div class="form-error" id="nameError"></div>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="email" class="form-label">Email Address *</label>
+                                        <input type="email" id="email" name="email" class="form-input" required>
+                                        <div class="form-error" id="emailError"></div>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="phone" class="form-label">Phone Number</label>
+                                        <input type="tel" id="phone" name="phone" class="form-input">
+                                        <div class="form-help">Optional - for faster response</div>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="service" class="form-label">Service Interested In</label>
+                                        <select id="service" name="service" class="form-select">
+                                            <option value="">Select a service</option>
+                                            <option value="web-design">Web Design & Development</option>
+                                            <option value="maintenance">Website Maintenance</option>
+                                            <option value="seo">SEO Services</option>
+                                            <option value="marketing">Digital Marketing</option>
+                                            <option value="branding">Brand Strategy</option>
+                                            <option value="custom">Custom Solution</option>
+                                        </select>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="budget" class="form-label">Project Budget</label>
+                                        <select id="budget" name="budget" class="form-select">
+                                            <option value="">Select budget range</option>
+                                            <option value="under-50k">Under KES 50,000</option>
+                                            <option value="50k-100k">KES 50,000 - 100,000</option>
+                                            <option value="100k-200k">KES 100,000 - 200,000</option>
+                                            <option value="200k-500k">KES 200,000 - 500,000</option>
+                                            <option value="over-500k">Over KES 500,000</option>
+                                        </select>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="message" class="form-label">Project Details *</label>
+                                        <textarea id="message" name="message" class="form-textarea" rows="5" placeholder="Tell us about your project, goals, and any specific requirements..." required></textarea>
+                                        <div class="form-error" id="messageError"></div>
+                                    </div>
+
+                                    <button type="submit" class="btn btn-primary btn-large" style="width: 100%;">
+                                        Send Message
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Contact Information -->
+                    <div>
+                        <div class="card" style="margin-bottom: 2rem;">
+                            <div class="card-body">
+                                <h3>Contact Information</h3>
+                                <div style="margin-top: 2rem;">
+                                    <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
+                                        <div style="width: 50px; height: 50px; background: var(--brand-blue); color: white; border-radius: var(--radius-lg); display: flex; align-items: center; justify-content: center; flex-shrink: 0;">📍</div>
+                                        <div>
+                                            <h4>Office Location</h4>
+                                            <p style="margin: 0; color: var(--gray-600);">Nairobi CBD, Kenya</p>
+                                        </div>
+                                    </div>
+
+                                    <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
+                                        <div style="width: 50px; height: 50px; background: var(--brand-yellow); color: var(--gray-900); border-radius: var(--radius-lg); display: flex; align-items: center; justify-content: center; flex-shrink: 0;">📞</div>
+                                        <div>
+                                            <h4>Phone</h4>
+                                            <p style="margin: 0;"><a href="tel:+254743750237" style="color: var(--gray-600);">+254 743 750 237</a></p>
+                                        </div>
+                                    </div>
+
+                                    <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
+                                        <div style="width: 50px; height: 50px; background: var(--success); color: white; border-radius: var(--radius-lg); display: flex; align-items: center; justify-content: center; flex-shrink: 0;">💬</div>
+                                        <div>
+                                            <h4>WhatsApp</h4>
+                                            <p style="margin: 0;"><a href="https://wa.me/254743750237" style="color: var(--gray-600);">+254 743 750 237</a></p>
+                                        </div>
+                                    </div>
+
+                                    <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
+                                        <div style="width: 50px; height: 50px; background: var(--info); color: white; border-radius: var(--radius-lg); display: flex; align-items: center; justify-content: center; flex-shrink: 0;">📧</div>
+                                        <div>
+                                            <h4>Email</h4>
+                                            <p style="margin: 0;"><a href="mailto:info@devcircle.co.ke" style="color: var(--gray-600);">info@devcircle.co.ke</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card">
+                            <div class="card-body">
+                                <h3>Office Hours</h3>
+                                <div style="margin-top: 1.5rem;">
+                                    <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+                                        <span>Monday - Friday</span>
+                                        <span>8:00 AM - 6:00 PM</span>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+                                        <span>Saturday</span>
+                                        <span>9:00 AM - 4:00 PM</span>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-between; margin-bottom: 1.5rem;">
+                                        <span>Sunday</span>
+                                        <span>Closed</span>
+                                    </div>
+                                    <p style="font-size: 0.875rem; color: var(--gray-500); margin: 0;">
+                                        Emergency support available 24/7 for existing clients
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Map Section -->
+        <section class="section">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Find Us</h2>
+                    <p>Located in the heart of Nairobi CBD for easy access</p>
+                </div>
+                
+                <div style="border-radius: 1rem; overflow: hidden; box-shadow: var(--shadow-lg);">
+                    <iframe 
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8198006823756!2d36.8219462!3d-1.2920659!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f10d22c5c5c5c%3A0x5c5c5c5c5c5c5c5c!2sNairobi%20CBD%2C%20Nairobi%2C%20Kenya!5e0!3m2!1sen!2ske!4v1234567890123"
+                        width="100%" 
+                        height="400" 
+                        style="border:0;" 
+                        allowfullscreen="" 
+                        loading="lazy" 
+                        referrerpolicy="no-referrer-when-downgrade"
+                        title="DevCircle Office Location - Nairobi CBD">
+                    </iframe>
+                </div>
+            </div>
+        </section>
+
+        <!-- Quick Actions -->
+        <section class="section section-light">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Prefer a Different Way to Connect?</h2>
+                    <p>Choose the method that works best for you</p>
+                </div>
+                
+                <div class="grid grid-3">
+                    <div class="card">
+                        <div class="card-body" style="text-align: center;">
+                            <div style="width: 80px; height: 80px; background: var(--brand-blue); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem; font-size: 2rem;">💬</div>
+                            <h3>WhatsApp Chat</h3>
+                            <p>Get instant responses to your questions via WhatsApp. Perfect for quick inquiries and project discussions.</p>
+                            <a href="https://wa.me/254743750237" class="btn btn-primary">Start Chat</a>
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <div class="card-body" style="text-align: center;">
+                            <div style="width: 80px; height: 80px; background: var(--brand-yellow); color: var(--gray-900); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem; font-size: 2rem;">📞</div>
+                            <h3>Schedule a Call</h3>
+                            <p>Book a consultation call to discuss your project in detail. We'll provide expert advice and recommendations.</p>
+                            <a href="tel:+254743750237" class="btn btn-outline">Call Now</a>
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <div class="card-body" style="text-align: center;">
+                            <div style="width: 80px; height: 80px; background: var(--success); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem; font-size: 2rem;">📧</div>
+                            <h3>Email Us</h3>
+                            <p>Send us a detailed email about your project requirements. We'll respond with a comprehensive proposal.</p>
+                            <a href="mailto:info@devcircle.co.ke" class="btn btn-outline">Send Email</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <div class="footer-logo">
+                        <h3>DevCircle</h3>
+                        <p>Professional web design team transforming digital experiences in Nairobi CBD.</p>
+                    </div>
+                    <div class="footer-social">
+                        <a href="https://www.facebook.com/devcircle" aria-label="Facebook">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+                            </svg>
+                        </a>
+                        <a href="https://www.instagram.com/devcircle" aria-label="Instagram">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul class="footer-links">
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="portfolio.html">Portfolio</a></li>
+                        <li><a href="pricing.html">Pricing</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Services</h4>
+                    <ul class="footer-links">
+                        <li><a href="services.html#web-design">Web Design</a></li>
+                        <li><a href="services.html#maintenance">Web Maintenance</a></li>
+                        <li><a href="services.html#seo">SEO Services</a></li>
+                        <li><a href="services.html#marketing">Digital Marketing</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact Info</h4>
+                    <div class="footer-contact">
+                        <p>📍 Nairobi CBD, Kenya</p>
+                        <p>📞 <a href="tel:+254743750237">+254 743 750 237</a></p>
+                        <p>💬 <a href="https://wa.me/254743750237">WhatsApp</a></p>
+                        <p>📧 <a href="mailto:info@devcircle.co.ke">info@devcircle.co.ke</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 DevCircle. All rights reserved. | Professional Web Design Team - Nairobi CBD</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top" id="backToTop" aria-label="Back to top">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18,15 12,9 6,15"></polyline>
+        </svg>
+    </button>
+
+    <!-- JavaScript -->
+    <script src="js/main.js"></script>
+    <script src="js/form.js"></script>
+</body>
+</html>

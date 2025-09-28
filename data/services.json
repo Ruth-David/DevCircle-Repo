@@ -1,0 +1,92 @@
+[
+  {
+    "id": "web-design",
+    "title": "Web Design & Development",
+    "description": "Custom, responsive websites that perfectly represent your brand and engage your audience. We create modern, fast-loading sites optimized for all devices and search engines.",
+    "icon": "🎨",
+    "image": "https://i.postimg.cc/9Q5V4BpX/web-goumbik-574077.jpg",
+    "features": [
+      "Custom responsive design",
+      "Mobile-first approach",
+      "SEO optimization",
+      "Fast loading speeds",
+      "User-friendly CMS",
+      "Cross-browser compatibility",
+      "Analytics integration",
+      "Security implementation"
+    ],
+    "starting_price": "KES 50,000"
+  },
+  {
+    "id": "maintenance",
+    "title": "Website Maintenance",
+    "description": "Keep your website running smoothly with our comprehensive maintenance services. We handle updates, security, backups, and performance optimization so you can focus on your business.",
+    "icon": "🔧",
+    "image": "https://i.postimg.cc/d1pQ5c8r/cottonbro-5083405.jpg",
+    "features": [
+      "Regular security updates",
+      "Daily backups",
+      "Performance monitoring",
+      "Content updates",
+      "Bug fixes",
+      "Plugin/software updates",
+      "Uptime monitoring",
+      "Monthly reports"
+    ],
+    "starting_price": "KES 15,000/month"
+  },
+  {
+    "id": "seo",
+    "title": "SEO Services",
+    "description": "Improve your search engine rankings and drive organic traffic to your website. Our SEO experts use proven strategies to help your business appear at the top of search results.",
+    "icon": "📈",
+    "image": "https://i.postimg.cc/TPKZCLQN/eva-bronzini-7661627.jpg",
+    "features": [
+      "Keyword research & analysis",
+      "On-page optimization",
+      "Technical SEO audit",
+      "Content optimization",
+      "Local SEO",
+      "Link building",
+      "Performance tracking",
+      "Monthly SEO reports"
+    ],
+    "starting_price": "KES 25,000/month"
+  },
+  {
+    "id": "marketing",
+    "title": "Digital Marketing",
+    "description": "Comprehensive digital marketing strategies to grow your online presence and drive conversions. From social media management to paid advertising, we've got you covered.",
+    "icon": "📱",
+    "image": "https://i.postimg.cc/vZFgQfxf/Marketing-3440682-11344549.jpg",
+    "features": [
+      "Social media management",
+      "Google Ads campaigns",
+      "Facebook & Instagram ads",
+      "Email marketing",
+      "Content creation",
+      "Brand strategy",
+      "Analytics & reporting",
+      "Conversion optimization"
+    ],
+    "starting_price": "KES 30,000/month"
+  },
+  {
+    "id": "branding",
+    "title": "Brand Strategy & Design",
+    "description": "Build a strong, memorable brand that resonates with your target audience. From logo design to complete brand guidelines, we help establish your unique identity.",
+    "icon": "✨",
+    "image": "https://i.postimg.cc/m2xCr00P/Branding-6956225.jpg",
+    "features": [
+      "Logo design",
+      "Brand identity development",
+      "Color palette & typography",
+      "Brand guidelines",
+      "Business card design",
+      "Marketing materials",
+      "Brand strategy consulting",
+      "Rebranding services"
+    ],
+    "starting_price": "KES 40,000"
+  }
+]

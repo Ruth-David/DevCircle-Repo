@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "title": "TechHub Kenya E-commerce Platform",
+    "description": "Modern e-commerce platform with integrated payment solutions and inventory management",
+    "category": "E-commerce",
+    "image": "https://i.postimg.cc/sfTYXd64/E-Commerce-or-Electronics-Commerce-is-a.jpg",
+    "tags": ["E-commerce", "Payment Integration", "Mobile App"],
+    "client": "TechHub Kenya",
+    "year": "2024",
+    "technologies": ["React", "Node.js", "MongoDB", "Stripe"],
+    "results": "300% increase in online sales, 45% improvement in conversion rate"
+  },
+  {
+    "id": 2,
+    "title": "EcoSolutions Corporate Website",
+    "description": "Professional corporate website with interactive service showcase and lead generation",
+    "category": "Corporate",
+    "image": "https://i.postimg.cc/wTjJNfyc/9hr-15min-11-servings.jpg",
+    "tags": ["Corporate", "Lead Generation", "SEO"],
+    "client": "EcoSolutions Ltd",
+    "year": "2024",
+    "technologies": ["WordPress", "Custom PHP", "MySQL"],
+    "results": "200% increase in qualified leads, #1 ranking for target keywords"
+  },
+    {
+  "id": 3,
+  "title": "SPIKES SALON, Barbershop & Spa",
+  "description": "Full-service salon, barbershop, and spa providing premium grooming, hairstyling, and wellness treatments.",
+  "category": "Beauty & Wellness",
+  "image": "https://i.postimg.cc/MGF1ZyKb/Spikes-Salon-2025-09-06-at-21-19-32-b8803eb1.jpg",
+  "tags": ["Salon", "Barbershop", "Spa", "Grooming", "Wellness"],
+  "client": "SPIKES SALON, Barbershop & Spa",
+  "year": "2024",
+  "technologies": ["Adobe Creative Suite", "Figma", "Canva"],
+  "results": "30% increase in client bookings, 40% growth in online visibility and brand awareness"
+
+  },
+  {
+    "id": 4,
+    "title": "FitLife Kenya Mobile App",
+    "description": "Fitness tracking mobile application with social features and workout plans",
+    "category": "Mobile App",
+    "image": "https://i.postimg.cc/63J8qznK/mobile-app-brettjordan-5426402.jpg",
+    "tags": ["Mobile App", "Fitness", "Social Features"],
+    "client": "FitLife Kenya",
+    "year": "2024",
+    "technologies": ["React Native", "Firebase", "Node.js"],
+    "results": "50k+ downloads, 4.8-star rating, featured app of the month"
+  },
+  {
+    "id": 5,
+    "title": "Sir David Bespoke",
+    "description": "A website for designing custom men's and women's suits, bridal collections, and showcasing African elegance.",
+    "category": "E-commerce",
+    "image": "https://i.postimg.cc/4ydqMYQS/Sir-David-Bespoke-2025-09-11-152427.png",
+    "tags": ["E-commerce", "Fashion Design", "Custom Suits", "Bridal Collection", "African Elegance"],
+    "client": "Sir David Bespoke",
+    "year": "2023",
+    "technologies": ["Shopify", "Custom Web Development", "APIs"],
+    "results": "Successfully launched custom clothing collections, with a growing client base and positive customer feedback"
+  },
+  {
+    "id": 6,
+    "title": "Digital Africa Conference Site",
+    "description": "Event website with ticketing system, speaker profiles, and live streaming",
+    "category": "Event",
+    "image": "https://i.postimg.cc/C1tX3FrM/Photos-from-our-corporate-bespoke-and-tailored-1.jpg",
+    "tags": ["Event", "Ticketing", "Live Streaming"],
+    "client": "Digital Africa Foundation",
+    "year": "2023",
+    "technologies": ["Next.js", "Stripe", "WebRTC"],
+    "results": "2000+ attendees, seamless ticketing process, 98% uptime"
+  },
+  {
+  "id": 7,
+  "title": "Graphic Design",
+  "description": "Showcasing graphic design project: Chuma Laptops branding poster design.",
+  "category": "Graphic Design",
+  "image": "https://i.postimg.cc/vHny0MVQ/Laptops-2025-09-11-at-08-20-39-8dd0b821.jpg", 
+  "tags": ["Branding", "Poster Design", "Graphic Design", "Marketing Materials"],
+  "client": "Chuma Laptops",
+  "year": "2025",
+  "technologies": ["Adobe Photoshop", "Illustrator", "Canva"],
+  "results": "Successfully enhanced brand visibility and customer engagement for Chuma Laptops."
+}
+,
+  {
+  "id": 8,
+  "title": "Graphic Design",
+  "description": "Showcasing graphic design project: Johnte's Collection poster design.",
+  "category": "Graphic Design",
+  "image": "https://i.postimg.cc/vBjRvS8g/Johnte-s-Colections-2025-09-05-at-18-58-28-d50f6e39.jpg", 
+  "tags": ["Branding", "Poster Design", "Graphic Design", "Marketing Materials"],
+  "client": " Johnte's Collection",
+  "year": "2025",
+  "technologies": ["Adobe Photoshop", "Illustrator", "Canva"],
+  "results": "Successfully enhanced brand visibility and customer engagement for Johnte's Collection."
+},
+  {
+    "id": 9,
+    "title": "EducateKenya Learning Platform",
+    "description": "Online learning platform with video courses, quizzes, and progress tracking",
+    "category": "Education",
+    "image": "https://i.postimg.cc/bY33DFNp/Black-Girls-Code-Com-Our-mission-is-to-empower-young-1.jpg",
+    "tags": ["Education", "LMS", "Video Streaming"],
+    "client": "EducateKenya",
+    "year": "2023",
+    "technologies": ["Django", "PostgreSQL", "AWS"],
+    "results": "10k+ students enrolled, 95% course completion rate"
+  }
+
+]

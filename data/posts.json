@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "title": "10 Web Design Trends That Will Dominate 2025",
+    "slug": "web-design-trends-2025",
+    "excerpt": "Discover the latest web design trends that will shape the digital landscape in 2025. From AI-powered interfaces to sustainable design practices.",
+    "content": "Full blog post content would go here...",
+    "featured_image": "assets/img/blog-1.jpg",
+    "author": "DevCircle Team",
+    "published_date": "2024-12-15",
+    "tags": ["Web Design", "Trends", "UI/UX"],
+    "category": "Design",
+    "reading_time": 5
+  },
+  {
+    "id": 2,
+    "title": "The Ultimate Guide to SEO for Kenyan Businesses",
+    "slug": "seo-guide-kenyan-businesses",
+    "excerpt": "Learn how to optimize your website for local search in Kenya. Practical tips and strategies to improve your Google rankings and drive more traffic.",
+    "content": "Full blog post content would go here...",
+    "featured_image": "assets/img/blog-2.jpg",
+    "author": "DevCircle Team",
+    "published_date": "2024-12-10",
+    "tags": ["SEO", "Kenya", "Local Business"],
+    "category": "Marketing",
+    "reading_time": 8
+  },
+  {
+    "id": 3,
+    "title": "Mobile-First Design: Why It Matters in 2025",
+    "slug": "mobile-first-design-2025",
+    "excerpt": "With mobile traffic dominating the web, mobile-first design is no longer optional. Learn why and how to implement it effectively.",
+    "content": "Full blog post content would go here...",
+    "featured_image": "assets/img/blog-3.jpg",
+    "author": "DevCircle Team",
+    "published_date": "2024-12-05",
+    "tags": ["Mobile Design", "Responsive", "UX"],
+    "category": "Development",
+    "reading_time": 6
+  },
+  {
+    "id": 4,
+    "title": "Building an E-commerce Empire: Success Stories from Kenya",
+    "slug": "ecommerce-success-stories-kenya",
+    "excerpt": "Inspiring stories of Kenyan entrepreneurs who built successful online businesses. Learn from their strategies and challenges.",
+    "content": "Full blog post content would go here...",
+    "featured_image": "assets/img/blog-4.jpg",
+    "author": "DevCircle Team",
+    "published_date": "2024-11-28",
+    "tags": ["E-commerce", "Success Stories", "Kenya"],
+    "category": "Business",
+    "reading_time": 10
+  },
+  {
+    "id": 5,
+    "title": "The Power of Social Media Marketing for Small Businesses",
+    "slug": "social-media-marketing-small-business",
+    "excerpt": "Discover how small businesses can leverage social media platforms to build brand awareness, engage customers, and drive sales.",
+    "content": "Full blog post content would go here...",
+    "featured_image": "assets/img/blog-5.jpg",
+    "author": "DevCircle Team",
+    "published_date": "2024-11-20",
+    "tags": ["Social Media", "Marketing", "Small Business"],
+    "category": "Marketing",
+    "reading_time": 7
+  },
+  {
+    "id": 6,
+    "title": "Website Security: Protecting Your Business Online",
+    "slug": "website-security-business-protection",
+    "excerpt": "Learn essential website security practices to protect your business from cyber threats, data breaches, and malicious attacks.",
+    "content": "Full blog post content would go here...",
+    "featured_image": "assets/img/blog-6.jpg",
+    "author": "DevCircle Team",
+    "published_date": "2024-11-15",
+    "tags": ["Security", "Website Protection", "Cybersecurity"],
+    "category": "Security",
+    "reading_time": 9
+  },
+
+  {
+    "id": 7,
+    "title": "felkdjhc vcbd,msdjvbfnmsmcnbs.dn,cmbsdklncn",
+    "slug": "xjhvzbklj bnxakxcbn ms,.am,c",
+    "excerpt": "jvhbkjal;ckbx jsaodkjcbxjksdalkbcxjsdkbsvjdasmcxbkhidjkcm xbljkhczbxmbhjkxbdsalcm xbjdsalkbcx jsakdhlib.",
+    "content": "ghdkjslcx,mn mndjsklc.x, mnhvjgfyuildskjcx,mnhjsfkj..",
+    "featured_image": "assets/img/blog-6.jpg",
+    "author": "Ruth the girl",
+    "published_date": "2024-11-15",
+    "tags": ["Security", "Website Protection", "Cybersecurity"],
+    "category": "Security",
+    "reading_time": 9
+  }
+]

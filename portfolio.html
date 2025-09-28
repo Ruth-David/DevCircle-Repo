@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - DevCircle | Our Web Design & Development Work</title>
+    <meta name="description" content="Explore DevCircle's portfolio of successful web design, development, and digital marketing projects. See how we've helped businesses transform their digital presence.">
+    <meta name="keywords" content="DevCircle portfolio, web design projects, website examples, Kenya web design, digital marketing case studies">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="Portfolio - DevCircle">
+    <meta property="og:description" content="Explore our portfolio of successful web design and digital marketing projects">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://devcircle.co.ke/portfolio.html">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/layout.css">
+    <link rel="stylesheet" href="css/components.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <!-- Logo Image Added Here -->
+                    <a href="index.html">
+                        <img src="https://i.postimg.cc/NFnHBX82/Dev-Circle-Logo-2025-09-11-at-14-37-35-ada752b1.jpg" alt="DevCircle Logo" style="width: 150px; height: auto;" />
+                    </a>
+                </div>
+                <nav class="nav" id="nav">
+                    <ul class="nav-list">
+                        <li><a href="index.html" class="nav-link">Home</a></li>
+                        <li><a href="services.html" class="nav-link">Services</a></li>
+                        <li><a href="about.html" class="nav-link">About</a></li>
+                        <li><a href="portfolio.html" class="nav-link active">Portfolio</a></li>
+                        <li><a href="pricing.html" class="nav-link">Pricing</a></li>
+                        <li><a href="blog.html" class="nav-link">Blog</a></li>
+                        <li><a href="faq.html" class="nav-link">FAQ</a></li>
+                        <li><a href="contact.html" class="nav-link">Contact</a></li>
+                    </ul>
+                </nav>
+                <div class="header-actions">
+                    <a href="https://wa.me/254743750237" class="btn btn-primary btn-small">Chat on WhatsApp</a>
+                    <button class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Toggle mobile menu">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Hero Section -->
+        <section class="section">
+            <div class="container">
+                <div class="section-header">
+                    <h1>Our Portfolio</h1>
+                    <p>Discover the successful projects we've delivered for clients across various industries. From e-commerce platforms to corporate websites, see how we transform digital visions into reality.</p>
+                </div>
+
+                <!-- Portfolio Filters -->
+                <div id="portfolioFilters" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-bottom: 3rem;">
+                    <!-- Filters will be loaded via JavaScript -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Portfolio Grid -->
+        <section class="section section-light">
+            <div class="container">
+                <div id="portfolioGrid">
+                    <!-- Portfolio items will be loaded via JavaScript -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Portfolio Modal -->
+        <div class="modal-backdrop" id="portfolioModal">
+            <div class="modal" style="max-width: 900px;">
+                <div class="modal-header">
+                    <h3 class="modal-title" id="modalTitle">Project Title</h3>
+                    <button class="modal-close" id="modalClose" aria-label="Close modal">&times;</button>
+                </div>
+                <div class="modal-body" id="modalBody">
+                    <!-- Modal content will be dynamically loaded -->
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-outline" id="modalClose2">Close</button>
+                    <a href="contact.html" class="btn btn-primary">Start Your Project</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Results Section -->
+        <section class="section">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Project Results That Speak for Themselves</h2>
+                    <p>Our success is measured by the success of our clients. Here are some key metrics from our recent projects.</p>
+                </div>
+                
+                <div class="grid grid-4" style="text-align: center;">
+                    <div class="card">
+                        <div class="card-body">
+                            <div style="font-size: 3rem; font-weight: bold; color: var(--brand-blue); margin-bottom: 1rem;">200+</div>
+                            <h4>Projects Completed</h4>
+                            <p>Successfully delivered projects across various industries and business sizes.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <div class="card-body">
+                            <div style="font-size: 3rem; font-weight: bold; color: var(--brand-yellow); margin-bottom: 1rem;">98%</div>
+                            <h4>Client Satisfaction</h4>
+                            <p>Our clients love working with us and often return for additional projects.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <div class="card-body">
+                            <div style="font-size: 3rem; font-weight: bold; color: var(--success); margin-bottom: 1rem;">300%</div>
+                            <h4>Average ROI Increase</h4>
+                            <p>Our clients see significant improvements in their online performance and ROI.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <div class="card-body">
+                            <div style="font-size: 3rem; font-weight: bold; color: var(--info); margin-bottom: 1rem;">24/7</div>
+                            <h4>Support Available</h4>
+                            <p>We provide round-the-clock support to ensure your website stays online and optimized.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- CTA Section -->
+        <section class="section cta-section">
+            <div class="container">
+                <div class="cta-content">
+                    <h2>Ready to Create Your Success Story?</h2>
+                    <p>Join our portfolio of successful projects. Let's discuss how we can transform your digital presence and drive real business results.</p>
+                    <div class="cta-actions">
+                        <a href="https://wa.me/254743750237" class="btn btn-accent btn-large">Start Your Project</a>
+                        <a href="contact.html" class="btn btn-secondary btn-large">Get Free Quote</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <div class="footer-logo">
+                        <h3>DevCircle</h3>
+                        <p>Professional web design team transforming digital experiences in Nairobi CBD.</p>
+                    </div>
+                    <div class="footer-social">
+                        <a href="https://www.facebook.com/devcircle" aria-label="Facebook">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+                            </svg>
+                        </a>
+                        <a href="https://www.instagram.com/devcircle" aria-label="Instagram">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul class="footer-links">
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="portfolio.html">Portfolio</a></li>
+                        <li><a href="pricing.html">Pricing</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Services</h4>
+                    <ul class="footer-links">
+                        <li><a href="services.html#web-design">Web Design</a></li>
+                        <li><a href="services.html#maintenance">Web Maintenance</a></li>
+                        <li><a href="services.html#seo">SEO Services</a></li>
+                        <li><a href="services.html#marketing">Digital Marketing</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact Info</h4>
+                    <div class="footer-contact">
+                        <p>📍 Nairobi CBD, Kenya</p>
+                        <p>📞 <a href="tel:+254743750237">+254 743 750 237</a></p>
+                        <p>💬 <a href="https://wa.me/254743750237">WhatsApp</a></p>
+                        <p>📧 <a href="mailto:info@devcircle.co.ke">info@devcircle.co.ke</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 DevCircle. All rights reserved. | Professional Web Design Team - Nairobi CBD</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top" id="backToTop" aria-label="Back to top">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18,15 12,9 6,15"></polyline>
+        </svg>
+    </button>
+
+    <!-- JavaScript -->
+    <script src="js/main.js"></script>
+    <script src="js/data-loader.js"></script>
+    <script src="js/lightbox.js"></script>
+</body>
+</html>

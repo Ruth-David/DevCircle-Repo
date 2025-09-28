@@ -1,0 +1,61 @@
+[
+  {
+    "name": "John Chuma",
+    "role": "Creative Director & Co-Founder",
+    "bio": "With over 8 years of experience in web design and digital strategy, Alex leads our creative vision. He specializes in brand identity and user experience design.",
+    "photo": "https://i.postimg.cc/DykhYgXV/Whats-App-Image-2025-07-26-at-21-58-14-279e9ecc.jpg",
+    "social": {
+      "linkedin": "https://linkedin.com/in/alexkirotich",
+      "twitter": "https://twitter.com/alexkiprotich"
+    }
+  },
+  {
+    "name": "John Mwalimu",
+    "role": "Lead Developer & Co-Founder",
+    "bio": "Sarah is our technical lead with expertise in modern web technologies. She ensures every website we build is fast, secure, and scalable.",
+    "photo": "https://i.postimg.cc/rsgvmSQj/John-Mwalimu.jpg",
+    "social": {
+      "linkedin": "https://linkedin.com/in/sarahwanjiku",
+      "github": "https://github.com/sarahwanjiku"
+    }
+  },
+  {
+    "name": "Julius Kiema",
+    "role": "Digital Marketing Specialist",
+    "bio": "Michael drives our digital marketing initiatives with deep expertise in SEO, social media, and paid advertising. He helps our clients achieve measurable online growth.",
+    "photo": "https://i.postimg.cc/9M51jrtf/Julius-Kiema.jpg",
+    "social": {
+      "linkedin": "https://linkedin.com/in/michaelochieng",
+      "twitter": "https://twitter.com/michaelochieng"
+    }
+  },
+  {
+    "name": "Michelle Maina",
+    "role": "Graphic Designer",
+    "bio": "Grace creates intuitive and beautiful user interfaces. Her background in psychology helps her understand user behavior and create engaging experiences.",
+    "photo": "https://i.postimg.cc/SNvvvQ5n/Michelle-Maina.jpg",
+    "social": {
+      "linkedin": "https://linkedin.com/in/graceakinyi",
+      "behance": "https://behance.net/graceakinyi"
+    }
+  },
+  {
+    "name": "David Nzuki",
+    "role": "Full-Stack Developer",
+    "bio": "David specializes in e-commerce solutions and web applications. His expertise in both frontend and backend development ensures seamless user experiences.",
+    "photo": "https://i.postimg.cc/6QdbqrQZ/David-Nzuki.jpg",
+    "social": {
+      "linkedin": "https://linkedin.com/in/davidkimani",
+      "github": "https://github.com/davidkimani"
+    }
+  },
+  {
+    "name": "Ruth David",
+    "role": "UX/UI Designer",
+    "bio": "Faith keeps our projects on track and our clients happy. With her attention to detail and communication skills, she ensures smooth project delivery every time.",
+    "photo": "https://i.postimg.cc/L5sxxG3k/Ruth-David.jpg",
+    "social": {
+      "linkedin": "https://linkedin.com/in/faithnjeri"
+    }
+  }
+]
